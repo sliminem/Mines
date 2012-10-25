@@ -1,4 +1,4 @@
 Mines
 =====
 
-Minesweeper
+Simple Minesweeper logical procedures.
